@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mergePnt id="csViolations">
+  <StdViols>
+    <StdViol msg="Member function 'WriteValue' should be declared as const" ln="12" sev="3" auth="henry" rule="CODSTA-CPP-54" tool="c++test" cat="CODSTA-CPP" lang="cpp" locType="sr" urgent="true" config="1" hash="-1729452700" locStartln="12" locStartPos="15" locEndLn="12" locEndPos="16" locFile="ACW_WordSearch/ACW_WordSearch/GridCell.cpp"/>
+  </StdViols>
+</mergePnt>
